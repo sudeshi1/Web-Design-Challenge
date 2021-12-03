@@ -1,5 +1,5 @@
 body {
-    background-image: url("/Assets/background.jpg");
+    background-image: url("Assets/background.jpg");
     height: 750px;
     background-position: center;
     background-repeat: repeat;
